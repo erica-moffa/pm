@@ -5,11 +5,11 @@
 ### [GitHub Agenda Page](https://github.com/tronprotocol/pm/issues/183)
 ### Agenda
 
-  - [Syncing the development progress of v4.8.1](https://github.com/tronprotocol/java-tron/issues/6342) [↓](##1)
-  - [TIP-6780: SELFDESTRUCT only in same transaction](https://github.com/tronprotocol/tips/issues/765) [↓](##2)
-  - [Parallelize eth_newFilter event matching](https://github.com/tronprotocol/java-tron/issues/6510) [↓](##3)
-  - [Support parameter passing via the input field for eth_call](https://github.com/tronprotocol/java-tron/issues/6517) [↓](##4)
-  - [Optimize the node connection logic](https://github.com/tronprotocol/libp2p/issues/129) [↓](##5)
+  - [Syncing the development progress of v4.8.1](https://github.com/tronprotocol/java-tron/issues/6342) 
+  - [TIP-6780: SELFDESTRUCT only in same transaction](https://github.com/tronprotocol/tips/issues/765)
+  - [Parallelize eth_newFilter event matching](https://github.com/tronprotocol/java-tron/issues/6510)
+  - [Support parameter passing via the input field for eth_call](https://github.com/tronprotocol/java-tron/issues/6517)
+  - [Optimize the node connection logic](https://github.com/tronprotocol/libp2p/issues/129)
 
 
 ### Detail
@@ -18,7 +18,7 @@
             
     Alright, let's get started with our 54th TRON Core Devs meeting. We have 5 topics on the agenda today. First, I’ll hand it over to Zeus to sync us on the development progress of version 4.8.1.
 
-<a id="#1"></a>**Syncing the development progress of v4.8.1**
+**Syncing the development progress of v4.8.1**
 
 - **Zeus**
         
@@ -37,7 +37,7 @@
     
     Great. Any questions regarding the progress of 4.8.1? If not, let’s move on to the next topic.
 
-<a id="#2"></a>**TIP-6780: `SELFDESTRUCT` Only in Same Transaction**
+**TIP-6780: `SELFDESTRUCT` Only in Same Transaction**
 
 - **Murphy**
             
@@ -69,7 +69,7 @@
         
     If there are no other questions, let's proceed to the third topic. Zeus will introduce the proposal for parallelizing the `eth_newFilter` endpoint.
 
-<a id="#3"></a>**Parallelization of `eth_newFilter` Event Matching**
+**Parallelization of `eth_newFilter` Event Matching**
 
 - **Zeus** 
     
@@ -129,7 +129,7 @@
     
     Great. Let's move to the fourth topic. Tina, please introduce the support for passing parameters via the `input` field in `eth_call`.
     
-<a id="#4"></a>**Support on Parameter Passing via the `input` Field for `eth_call`**
+**Support on Parameter Passing via the `input` Field for `eth_call`**
 
 - **Tina**
     
@@ -153,7 +153,7 @@
     
     Got it. Any other questions on this topic? If not, we’ll move to the final topic.
 
-<a id="#5"></a>**Node Connection Logic Optimization**
+**Node Connection Logic Optimization**
 
 - **Lucas**
             
