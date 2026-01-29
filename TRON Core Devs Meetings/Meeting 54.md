@@ -5,11 +5,11 @@
 ### [GitHub Agenda Page](https://github.com/tronprotocol/pm/issues/183)
 ### Agenda
 
-  - [Syncing the development progress of v4.8.1](https://github.com/tronprotocol/java-tron/issues/6342) [↴](##1)
-  - [TIP-6780: SELFDESTRUCT only in same transaction](https://github.com/tronprotocol/tips/issues/765) [↴](##2)
-  - [Parallelize eth_newFilter event matching](https://github.com/tronprotocol/java-tron/issues/6510) [↴](##3)
-  - [Support parameter passing via the input field for eth_call](https://github.com/tronprotocol/java-tron/issues/6517) [↴](##4)
-  - [Optimize the node connection logic](https://github.com/tronprotocol/libp2p/issues/129) [↴](##5)
+  - [Syncing the development progress of v4.8.1](https://github.com/tronprotocol/java-tron/issues/6342) [↓](##1)
+  - [TIP-6780: SELFDESTRUCT only in same transaction](https://github.com/tronprotocol/tips/issues/765) [↓](##2)
+  - [Parallelize eth_newFilter event matching](https://github.com/tronprotocol/java-tron/issues/6510) [↓](##3)
+  - [Support parameter passing via the input field for eth_call](https://github.com/tronprotocol/java-tron/issues/6517) [↓](##4)
+  - [Optimize the node connection logic](https://github.com/tronprotocol/libp2p/issues/129) [↓](##5)
 
 
 ### Detail
