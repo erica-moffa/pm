@@ -104,8 +104,8 @@ Sometimes, a non-core Java-tron developer with particular expertise on a topic i
  59 | Tue, 18 Nov.  2025 06:00 UTC     | [agenda](https://github.com/tronprotocol/pm/issues/173) | [notes](https://github.com/tronprotocol/pm/blob/master/TRON%20Core%20Devs%20Meetings/Wallet%20Devs%20Meeting%2004.md) | NA
  60 | Wed, 03 Dec.  2025 06:00 UTC     | [agenda](https://github.com/tronprotocol/pm/issues/176) | [notes](https://github.com/tronprotocol/pm/blob/master/TRON%20Core%20Devs%20Meetings/Meeting%2051.md) | NA
  61 | Wed, 24 Dec.  2025 06:00 UTC     | [agenda](https://github.com/tronprotocol/pm/issues/179) | [notes](https://github.com/tronprotocol/pm/blob/master/TRON%20Core%20Devs%20Meetings/Meeting%2052.md) | NA
- 62 | Wed, 14 Dec.  2025 06:00 UTC     | [agenda](https://github.com/tronprotocol/pm/issues/181) | [notes](https://github.com/tronprotocol/pm/blob/master/TRON%20Core%20Devs%20Meetings/Meeting%2053.md) | NA
- 63 | Wed, 28 Dec.  2025 06:00 UTC     | [agenda](https://github.com/tronprotocol/pm/issues/183) | [notes](https://github.com/tronprotocol/pm/blob/master/TRON%20Core%20Devs%20Meetings/Meeting%2054.md) | NA
+ 62 | Wed, 14 Jan.  2026 06:00 UTC     | [agenda](https://github.com/tronprotocol/pm/issues/181) | [notes](https://github.com/tronprotocol/pm/blob/master/TRON%20Core%20Devs%20Meetings/Meeting%2053.md) | NA
+ 63 | Wed, 28 Jan.  2026 06:00 UTC     | [agenda](https://github.com/tronprotocol/pm/issues/183) | [notes](https://github.com/tronprotocol/pm/blob/master/TRON%20Core%20Devs%20Meetings/Meeting%2054.md) | NA
 
 
 
