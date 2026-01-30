@@ -24,11 +24,11 @@
         
     Over the past two weeks, we’ve integrated three new PRs, which have slightly pushed back our release schedule. The specific changes are as follows:
         
-    The first PR focuses on [supporting custom JDK installation](https://github.com/tronprotocol/java-tron/pull/6528). It now features automatic environment detection to install either JDK 8 or JDK 17. Whether deploying via Git or direct installation, the process is now more flexible, which significantly improves the developer experience.
+    [The first PR](https://github.com/tronprotocol/java-tron/pull/6528) focuses on supporting custom JDK installation. It now features automatic environment detection to install either JDK 8 or JDK 17. Whether deploying via Git or direct installation, the process is now more flexible, which significantly improves the developer experience.
         
-    The second PR involves [optimizing the Asset Issue executor](https://github.com/tronprotocol/java-tron/pull/6525). We’ve added validation logic for asset issuance, specifically by adding overflow checks when calculating start times and frozen periods to prevent data out-of-bounds. While this isn't a critical issue, we’ve included it to ensure the rigor of the underlying logic.
+    [The second PR](https://github.com/tronprotocol/java-tron/pull/6525) involves optimizing the Asset Issue executor. We’ve added validation logic for asset issuance, specifically by adding overflow checks when calculating start times and frozen periods to prevent data out-of-bounds. While this isn't a critical issue, we’ve included it to ensure the rigor of the underlying logic.
     
-    The third PR addresses [fixing data loss in event synchronization](https://github.com/tronprotocol/java-tron/pull/6526). We discovered that previous concurrency logic could lead to data loss when syncing between V1 and V2 (and vice versa). This concurrency bug has now been fully resolved to ensure the total accuracy of data synchronization.
+    [The third PR](https://github.com/tronprotocol/java-tron/pull/6526) addresses fixing data loss in event synchronization. We discovered that previous concurrency logic could lead to data loss when syncing between V1 and V2 (and vice versa). This concurrency bug has now been fully resolved to ensure the total accuracy of data synchronization.
     
     Given the progress of these 3 PRs, we estimate that version 4.8.1 will officially launch next Tuesday or Wednesday. In addition to this preliminary plan, I’d also like to sync that Trident SDK 0.1.1 has been officially released this week.
     
