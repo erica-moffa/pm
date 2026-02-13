@@ -241,7 +241,7 @@
 
 * **Patrick**
     
-    Understood. Since this involves removing a feature, please ensure this change is clearly highlighted in the Release Notes and on the developer website so that any remaining users of the gateway are aware of the migration path.
+    Understood. Since this involves removing a feature, please ensure this change is clearly highlighted in the Release Notes and on the developer website to guide any remaining users through the migration path. Specifically for technical guides like the Nile testnet documentation, I suggest providing direct links to the latest GitHub repositories to prevent developers from following obsolete gateway configurations, which could otherwise lead to node startup failures.
 
 * **Blade**
     
