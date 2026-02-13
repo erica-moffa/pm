@@ -172,9 +172,7 @@
 * **Cathy**
     
     TronWeb 6.2.0 primarily integrates the new 4.8.1 interfaces into a single method, `trx.getNowWitnessList`, for retrieving the Super Representative (SR) list with real-time vote counts. For added flexibility, developers can toggle the data source between Solidity nodes and FullNodes.
-    
-    Alright. First, let’s sync on the major updates for TronWeb 6.2.0. We have introduced a new method, `getNowWitnessList`, which allows for retrieving the witness list with real-time vote counts. This feature requires JAVA-TRON v4.8.1 or above. 
-    
+        
     We have also added deserialization support for four asset-related transaction types: `TransferAssetContract`, `ParticipateAssetIssueContract`, `AssetIssueContract`, and `UpdateAssetContract`.
     
     Currently, TronWeb handles all transaction construction locally. This not only enhances security but also reduces unnecessary network requests. In addition to serialization, developers can now use utility functions to deserialize `raw_data_hex` directly into transaction parameters—a feature highly useful for DApp development or Node.js scripting.
