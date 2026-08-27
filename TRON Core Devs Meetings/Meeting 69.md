@@ -26,7 +26,7 @@
 
 * **Boson**
 
-  The v4.8.2 network upgrade is basically complete. All Super Representative (SR) nodes have completed the upgrade, and voting on the related proposal started yesterday. It has already met the threshold to pass. No issues at the moment.
+  The v4.8.2 network upgrade is basically complete. All Super Representative nodes have completed the upgrade, and voting on the related proposal started yesterday. It has already met the threshold to pass. No issues at the moment.
 
 * **Murphy**
 
